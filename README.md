@@ -6,23 +6,15 @@ This repository contains my beginner Java programs as part of my learning journe
 
 📚 Topics Covered
 So far I have practiced programs on:
-1.Hello World Program
-2.Simple Interest Calculator
-3.Area of Circle
-4.Basic Input/Output
-5.Arithmetic Operations
+Hello World Program ,Simple Interest Calculator,Area of Circle,Basic Input/Output,Arithmetic Operations
 More topics coming soon 🚀
 
 🎯 Why this repo?
 I created this repository to:
-1.Track my daily coding progress
-2.Build consistency in programming
-3.Prepare a strong base for DSA & Development
+Track my daily coding progress, Build consistency in programming ,Prepare a strong base for DSA & Development
 
 🛠️ Tools Used
-1.Java
-2.IntelliJ IDEA
-3.Git & GitHub
+1.Java, IntelliJ IDEA, Git & GitHub
 
 ⭐ Support
 If you are also learning Java, feel free to explore and follow my journey!
