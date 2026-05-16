@@ -14,7 +14,7 @@ I created this repository to:
 Track my daily coding progress, Build consistency in programming ,Prepare a strong base for DSA & Development
 
 🛠️ Tools Used
-1.Java, IntelliJ IDEA, Git & GitHub
+Java, IntelliJ IDEA, Git & GitHub
 
 ⭐ Support
 If you are also learning Java, feel free to explore and follow my journey!
