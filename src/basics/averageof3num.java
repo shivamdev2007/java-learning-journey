@@ -12,6 +12,6 @@ public class averageof3num {
         System.out.print("c:");
         int c = sc.nextInt();
 
-        System.out.println("average of all 3 numbers is:" + (a + b + c)/3);
+        System.out.println("average:" + (a + b + c)/3);
     }
 }
