@@ -52,12 +52,4 @@ To become a skilled software developer by consistently learning Java, DSA, devel
 📅 Started: May 2026  
 🚀 Learning, building, and growing every day.
 
-## Progress
 
-- [x] Java Basics
-- [x] Methods
-- [x] Arrays
-- [ ] Sorting
-- [ ] Strings
-- [ ] OOP
-- [ ] DSA
